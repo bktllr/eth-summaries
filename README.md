@@ -22,3 +22,11 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0061-00L | 		Systems Programming and Computer Architecture      |   AS 2017 |
 | 401-0213-16L | 			Analysis II       |    AS 2017 |
 | 401-0663-00L | 			Numerical Methods for CSE        |    AS 2017 |
+| 252-0058-00L  | 				Formal Methods and Functional Programming   | SS 2018 |
+| 252-0063-00L | 			Data Modelling and Databases      |   SS 2018 |
+| 252-0064-00L | 				Computer Networks      |    SS 2018 |
+| 401-0614-00L | 				Wahrscheinlichkeit und Statistik         |    SS 2018 |
+ | 252-0206-00L  | 					Visual Computing   | AS 2018 |
+| 252-0063-00L | 				Algorithms, Probability, and Computing      |   AS 2018 |
+| 252-0064-00L | 					Computer Systems      |    AS 2018 |
+| 227-0627-00L | 					Angewandte Computer Architektur        |    AS 2018 |
