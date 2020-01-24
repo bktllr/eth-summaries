@@ -30,3 +30,7 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0063-00L | 				Algorithms, Probability, and Computing      |   AS 2018 |
 | 252-0064-00L | 					Computer Systems      |    AS 2018 |
 | 227-0627-00L | 					Angewandte Computer Architektur        |    AS 2018 |
+| 252-0216-00L | 						Rigorous Software Engineering      |    SS 2019 |
+| 252-0220-00L | 						Introduction to Machine Learning         |    SS 2019 |
+| 252-0535-00L | 							Advanced Machine Learning      |    AS 2019 |
+| 263-2400-00L | 							Reliable and Interpretable Artificial Intelligence         |    AS 2019 |
