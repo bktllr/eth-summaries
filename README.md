@@ -14,7 +14,13 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0025-00L  | Discrete Mathematics      |   AS 2016 |
 | 252-0026-00L | 	Algorithms and Data Structures       |    AS 2016 |
 | 252-0027-00L | 	Introduction to Programming        |    AS 2016 |
+
 | 401-0212-16L  | 		Analysis I   | SS 2017 |
 | 252-0028-00L | 	Design of Digital Circuits      |   SS 2017 |
 | 252-0029-00L | 		Parallel Programming       |    SS 2017 |
 | 252-0030-00L | 		Algorithms and Probability        |    SS 2017 |
+
+| 252-0057-00L  | 			Theoretical Computer Science   | AS 2017 |
+| 252-0061-00L | 		Systems Programming and Computer Architecture      |   AS 2017 |
+| 401-0213-16L | 			Analysis II       |    AS 2017 |
+| 401-0663-00L | 			Numerical Methods for CSE        |    AS 2017 |
