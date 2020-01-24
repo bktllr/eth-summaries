@@ -11,13 +11,13 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | Number        | Title           | Semester  |
 | ------------- |-------------  | -----|
 | 401-0131-00L  | 	[Linear Algebra](https://github.com/bojonas/eth-summaries/blob/master/Lineare%20Algebra%20Zusammenfassung.pdf)   | AS 2016 |
-| 252-0025-00L  | Discrete Mathematics      |   AS 2016 |
-| 252-0026-00L | 	Algorithms and Data Structures       |    AS 2016 |
-| 252-0027-00L | 	Introduction to Programming        |    AS 2016 |
-| 401-0212-16L  | 		Analysis I   | SS 2017 |
-| 252-0028-00L | 	Design of Digital Circuits      |   SS 2017 |
-| 252-0029-00L | 		Parallel Programming       |    SS 2017 |
-| 252-0030-00L | 		Algorithms and Probability        |    SS 2017 |
+| 252-0025-00L  | [Discrete Mathematics](https://github.com/bojonas/eth-summaries/blob/master/Diskrete%20Mathematik%20Zusammenfassung.pdf)      |   AS 2016 |
+| 252-0026-00L | 	[Algorithms and Data Structures](https://github.com/bojonas/eth-summaries/blob/master/Algorithmen%20und%20Datenstrukturen%20Zusammenfassungen.pdf)       |    AS 2016 |
+| 252-0027-00L | 	[Introduction to Programming](https://github.com/bojonas/eth-summaries/blob/master/Einf%C3%BChrung%20in%20die%20Programmierung%20Zusammenfassung.pdf)        |    AS 2016 |
+| 401-0212-16L  | 		[Analysis I](https://github.com/bojonas/eth-summaries/blob/master/Analysis%201%20Zusammenfassung.pdf)   | SS 2017 |
+| 252-0028-00L | 	[Design of Digital Circuits](https://github.com/bojonas/eth-summaries/blob/master/Digitaltechnik%20Zusammenfassung.pdf)      |   SS 2017 |
+| 252-0029-00L | 		[Parallel Programming](https://github.com/bojonas/eth-summaries/blob/master/Parallele%20Programmierung%20Zusammenfassung.pdf)       |    SS 2017 |
+| 252-0030-00L | 		[Algorithms and Probability](https://github.com/bojonas/eth-summaries/blob/master/Algorithmen%20und%20Wahrscheinlichkeiten%20Zusammenfassung.pdf)        |    SS 2017 |
 | 252-0057-00L  | 			Theoretical Computer Science   | AS 2017 |
 | 252-0061-00L | 		Systems Programming and Computer Architecture      |   AS 2017 |
 | 401-0213-16L | 			Analysis II       |    AS 2017 |
