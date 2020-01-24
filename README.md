@@ -9,7 +9,7 @@ Summaries which I have written during my studies for the Computer Science Bachel
 ---
 
 | Number        | Title           | Semester  |
-| ------------- |:-------------:  | -----:|
+| ------------- |-------------  | -----|
 | 401-0131-00L  | 	Linear Algebra   | AS 2016 |
 | 252-0025-00L  | Discrete Mathematics      |   AS 2016 |
 | 252-0026-00L | 	Algorithms and Data Structures       |    AS 2016 |
