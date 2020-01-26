@@ -21,7 +21,7 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0057-00L  | 			[Theoretical Computer Science](https://github.com/bojonas/eth-summaries/blob/master/Theoretische%20Informatik.pdf)   | AS 2017 |
 | 252-0061-00L | 		[Systems Programming and Computer Architecture](https://github.com/bojonas/eth-summaries/blob/master/Systems%20Programing%20and%20Computer%20Architecture.pdf)      |   AS 2017 |
 | 401-0213-16L | 			[Analysis II](https://github.com/bojonas/eth-summaries/blob/master/Analysis%20II.pdf)       |    AS 2017 |
-| 401-0663-00L | 			Numerical Methods for CSE        |    AS 2017 |
+| 401-0663-00L | 			[Numerical Methods for CSE](https://github.com/bojonas/eth-summaries/tree/master/Numerical%20Methods%20for%20CSE)        |    AS 2017 |
 | 252-0058-00L  | 				Formal Methods and Functional Programming   | SS 2018 |
 | 252-0063-00L | 			Data Modelling and Databases      |   SS 2018 |
 | 252-0064-00L | 				Computer Networks      |    SS 2018 |
