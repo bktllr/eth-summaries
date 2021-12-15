@@ -22,11 +22,11 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0061-00L | 		[Systems Programming and Computer Architecture](https://github.com/bojonas/eth-summaries/blob/master/Systems%20Programing%20and%20Computer%20Architecture.pdf)      |   AS 2017 |
 | 401-0213-16L | 			[Analysis II](https://github.com/bojonas/eth-summaries/blob/master/Analysis%20II.pdf)       |    AS 2017 |
 | 401-0663-00L | 			[Numerical Methods for CSE](https://github.com/bojonas/eth-summaries/tree/master/Numerical%20Methods%20for%20CSE)        |    AS 2017 |
-| 252-0058-00L  | 				Formal Methods and Functional Programming   | SS 2018 |
-| 252-0063-00L | 			Data Modelling and Databases      |   SS 2018 |
-| 252-0064-00L | 				Computer Networks      |    SS 2018 |
-| 401-0614-00L | 				Wahrscheinlichkeit und Statistik         |    SS 2018 |
- | 252-0206-00L  | 					Visual Computing   | AS 2018 |
+| 252-0058-00L  | 				[Formal Methods and Functional Programming](https://github.com/bokstaller/eth-summaries/tree/master/Formal%20Methods%20and%20Functional%20Programming)   | SS 2018 |
+| 252-0063-00L | 			[Data Modelling and Databases](https://github.com/bokstaller/eth-summaries/blob/master/Data%20Modelling%20and%20Databases%20Summary.pdf)      |   SS 2018 |
+| 252-0064-00L | 				[Computer Networks](https://github.com/bokstaller/eth-summaries/blob/master/Computer%20Networks%20Summary.pdf)      |    SS 2018 |
+| 401-0614-00L | 				[Wahrscheinlichkeit und Statistik](https://github.com/bokstaller/eth-summaries/blob/master/Wahrscheinlichkeit%20und%20Statistik%20Zusammenfassung.pdf)         |    SS 2018 |
+ | 252-0206-00L  | 					[Visual Computing](https://github.com/bokstaller/eth-summaries/blob/master/Visual%20Computing%20Summary.pdf)   | AS 2018 |
 | 252-0063-00L | 				Algorithms, Probability, and Computing      |   AS 2018 |
 | 252-0064-00L | 					Computer Systems      |    AS 2018 |
 | 227-0627-00L | 					Angewandte Computer Architektur        |    AS 2018 |
