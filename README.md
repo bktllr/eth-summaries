@@ -27,10 +27,9 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0064-00L | 				[Computer Networks](https://github.com/bokstaller/eth-summaries/blob/master/Computer%20Networks%20Summary.pdf)      |    SS 2018 |
 | 401-0614-00L | 				[Wahrscheinlichkeit und Statistik](https://github.com/bokstaller/eth-summaries/blob/master/Wahrscheinlichkeit%20und%20Statistik%20Zusammenfassung.pdf)         |    SS 2018 |
  | 252-0206-00L  | 					[Visual Computing](https://github.com/bokstaller/eth-summaries/blob/master/Visual%20Computing%20Summary.pdf)   | AS 2018 |
-| 252-0063-00L | 				Algorithms, Probability, and Computing      |   AS 2018 |
-| 252-0064-00L | 					Computer Systems      |    AS 2018 |
-| 227-0627-00L | 					Angewandte Computer Architektur        |    AS 2018 |
-| 252-0216-00L | 						Rigorous Software Engineering      |    SS 2019 |
-| 252-0220-00L | 						Introduction to Machine Learning         |    SS 2019 |
-| 252-0535-00L | 							Advanced Machine Learning      |    AS 2019 |
-| 263-2400-00L | 							Reliable and Interpretable Artificial Intelligence         |    AS 2019 |
+| 252-0063-00L | 				[Algorithms, Probability, and Computing](https://github.com/bokstaller/eth-summaries/blob/master/Algorithms%2C%20Probability%20and%20Computing%20Summary.pdf)      |   AS 2018 |
+| 252-0064-00L | 					[Computer Systems](https://github.com/bokstaller/eth-summaries/blob/master/Computer%20Systems%20Summary.pdf)      |    AS 2018 |
+| 252-0216-00L | 						[Rigorous Software Engineering](https://github.com/bokstaller/eth-summaries/blob/master/Rigorous%20Software%20Engineering%20Summary.pdf)      |    SS 2019 |
+| 252-0220-00L | 						[Introduction to Machine Learning](https://github.com/bokstaller/eth-summaries/tree/master/Introduction%20to%20Machine%20Learning)         |    SS 2019 |
+| 252-0535-00L | 							[Advanced Machine Learning](https://github.com/bokstaller/eth-summaries/blob/master/Advanced%20Machine%20Learning%20Summary.pdf)      |    AS 2019 |
+| 263-2400-00L | 							[Reliable and Interpretable Artificial Intelligence](https://github.com/bokstaller/eth-summaries/blob/master/Reliable%20and%20Interpretable%20Artificial%20Intelligence%20Summary.pdf)         |    AS 2019 |
