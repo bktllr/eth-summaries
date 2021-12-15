@@ -33,3 +33,8 @@ Summaries which I have written during my studies for the Computer Science Bachel
 | 252-0220-00L | 						[Introduction to Machine Learning](https://github.com/bokstaller/eth-summaries/tree/master/Introduction%20to%20Machine%20Learning)         |    SS 2019 |
 | 252-0535-00L | 							[Advanced Machine Learning](https://github.com/bokstaller/eth-summaries/blob/master/Advanced%20Machine%20Learning%20Summary.pdf)      |    AS 2019 |
 | 263-2400-00L | 							[Reliable and Interpretable Artificial Intelligence](https://github.com/bokstaller/eth-summaries/blob/master/Reliable%20and%20Interpretable%20Artificial%20Intelligence%20Summary.pdf)         |    AS 2019 |
+| 263-0007-00L	 | 							[Advanced Systems Lab](https://github.com/bokstaller/eth-summaries/blob/master/Advanced%20Systems%20Lab%20Summary.pdf)         |    SS 2020 |
+| 263-0008-00L	 | 							[Computational Intelligence Lab](https://github.com/bokstaller/eth-summaries/blob/master/Computational%20Intelligence%20Lab%20Summary.pdf)         |    SS 2020 |
+| 263-3010-00L	 | 							[Big Data](https://github.com/bokstaller/eth-summaries/blob/master/Big%20Data%20Summary.pdf)         |    AS 2020 |
+| 263-3855-00L	 | 							[Cloud Computing Architecture](https://github.com/bokstaller/eth-summaries/blob/master/Cloud%20Computing%20Architecture%20Summary.pdf)         |    SS 2021 |
+| 252-3005-00L	 | 							[Natural Language Processing](https://github.com/bokstaller/eth-summaries/blob/master/Natural%20Language%20Processing%20Cheat%20Sheet.pdf)         |    SS 2021 |
